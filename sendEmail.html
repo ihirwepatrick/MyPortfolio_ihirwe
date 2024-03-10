@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        background-color: #080e01;
+        color: aliceblue;
+        font-size: large;
+      }
+      .form {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        align-items: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <h1>Reach us!</h1>
+      <div>
+        <form class="form">
+          <label for="email">Email: </label>
+          <input type="email" name="email" placeholder="email" id="email" />
+          <label for="name">Email: </label>
+          <input type="text" name="name" placeholder="Full Names" id="name" />
+          <label for="message">Email: </label>
+          <input
+            type="text"
+            name="message"
+            placeholder="Message"
+            id="message"
+          />
+          <div>
+            <button type="submit">Send</button>
+          </div>
+        </form>
+      </div>
+    </div>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script>
+      const sendEmail = () => {
+        Email.send({
+          Host: "smtp.elasticemail.com",
+          Username: "username",
+          Password: "password",
+          To: "them@website.com",
+          From: "you@isp.com",
+          Subject: "This is the subject",
+          Body: "And this is the body",
+        }).then((message) => alert(message));
+      };
+    </script>
+  </body>
+</html>

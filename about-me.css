@@ -1,0 +1,741 @@
+.vector-icon14 {
+  width: 25px;
+  height: 50.7px;
+  position: relative;
+  cursor: pointer;
+}
+.pic-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.senior-artist1 {
+  font-size: var(--font-size-xl);
+  color: rgba(255, 255, 255, 0.8);
+}
+.john-doe-senior-container1 {
+  position: relative;
+}
+.header-text,
+.pic-frame1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header-text {
+  align-self: stretch;
+  height: 664px;
+  gap: 48px 0;
+}
+.pic-frame1 {
+  flex: 1;
+  padding: var(--padding-lg) 0 0;
+  box-sizing: border-box;
+  min-width: 411px;
+  max-width: 100%;
+}
+.heager {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.heager-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 42px;
+}
+.in-the-alchemy1 {
+  margin: 0;
+}
+.in-the-alchemy-container1 {
+  align-self: stretch;
+  height: 312px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.interaction-frame {
+  align-self: stretch;
+  width: 320px;
+  position: relative;
+  border-radius: var(--br-mid);
+  background: linear-gradient(180deg, #04062d, rgba(4, 6, 45, 0));
+  border-bottom: 1px solid #0e2fa5;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.contact4 {
+  width: 139px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-21xl);
+  background-color: transparent;
+  height: 48px;
+  position: relative;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  z-index: 1;
+  margin-left: -299px;
+}
+.vector-icon15 {
+  height: 34.3px;
+  width: 34.3px;
+  position: absolute;
+  margin: 0 !important;
+  right: 75.7px;
+  bottom: 21.7px;
+  object-fit: contain;
+  z-index: 2;
+}
+.b-f-a-frame,
+.contact3 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact3 {
+  width: 320px;
+  height: 85px;
+  flex-direction: row;
+  position: relative;
+}
+.b-f-a-frame {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 66px 0;
+  font-size: var(--font-size-6xl);
+}
+.gallery-parent,
+.john-doe-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gallery-parent {
+  width: 502px;
+  flex-direction: column;
+  gap: 101px 0;
+  min-width: 502px;
+  font-size: var(--font-size-31xl);
+}
+.john-doe-frame {
+  flex: 1;
+  flex-direction: row;
+  gap: 0 56px;
+}
+.john-doe-frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-6xl);
+  box-sizing: border-box;
+}
+.frame-parent1,
+.john-doe-frame-wrapper,
+.vector-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.vector-container {
+  width: 1215px;
+  flex-direction: column;
+  gap: 26px 0;
+}
+.frame-parent1 {
+  width: 1368px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
+.school-logo-icon {
+  height: 85.1px;
+  width: 100px;
+  position: relative;
+  min-height: 85px;
+}
+.bachelor-of-fine,
+.master-of-arts {
+  margin-bottom: 0;
+}
+.bachelor-of-fine-arts-in-graph {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-12xl);
+}
+.bachelor-of-fine-container {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 536px;
+  max-width: 100%;
+}
+.b-f-a-g-dlogo {
+  width: 977px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 52px;
+  max-width: 100%;
+}
+.skills-icon-frame {
+  height: 85px;
+  width: 87px;
+  position: relative;
+  min-height: 85px;
+}
+.job-title-placeholder,
+.job-title-placeholder1 {
+  margin-bottom: 0;
+}
+.job-title-placeholder-for-jo {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-12xl);
+}
+.job-title-placeholder-container {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 728px;
+  max-width: 100%;
+}
+.social-media-logos {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 52px;
+  max-width: 100%;
+}
+.contact-info-frame {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-smi);
+  box-sizing: border-box;
+}
+.contact-info-frame,
+.footer-frame2,
+.logo-and-social-media {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.logo-and-social-media {
+  flex: 1;
+  flex-direction: column;
+  gap: 65px 0;
+}
+.footer-frame2 {
+  width: 1318px;
+  flex-direction: row;
+  padding: 0 var(--padding-7xl) var(--padding-7xs) var(--padding-xl);
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
+.social-media {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+}
+.deviconbehance6,
+.logosfacebook-icon6,
+.logoswhatsapp-icon6,
+.skill-iconsinstagram6,
+.skill-iconslinkedin6,
+.skill-iconstwitter6 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 50px;
+}
+.social-media-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0 66px;
+  max-width: 100%;
+}
+.view-my-gallery {
+  margin: 0;
+  height: 42px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  text-shadow: 15px 15px 4px #140e22;
+  min-width: 165px;
+}
+.vector-icon16 {
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+.gallery-preview-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-11xs);
+}
+.gallery4,
+.social-media-links {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  max-width: 100%;
+}
+.gallery4 {
+  width: 340px;
+  justify-content: center;
+  gap: var(--gap-17xl);
+  cursor: pointer;
+}
+.social-media-links {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+}
+.social-media-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+  max-width: 100%;
+}
+.aboutme-inner,
+.fullfooter-child2 {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.aboutme-inner {
+  width: 1318px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 40px var(--padding-3xl) var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: rgba(255, 255, 255, 0.7);
+  font-family: var(--font-lato);
+}
+.fullfooter-child2 {
+  height: 192px;
+  width: 1440px;
+  position: relative;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #020a21,
+    #030c29 22.73%,
+    #0c1740 44.21%,
+    #15174d 63.76%,
+    #080324 78.1%,
+    #020119 91.12%,
+    #08092c
+  );
+  border: 1px solid var(--color-black);
+  display: none;
+}
+.acknowledgments5,
+.blank-line20 {
+  margin: 0;
+}
+.john-doe-marketing-director5 {
+  margin: 0;
+  white-space: pre-wrap;
+  font-size: var(--font-size-xs);
+}
+.blank-line21,
+.grateful-for-the5 {
+  margin: 0;
+}
+.john-doe-5 {
+  font-size: var(--font-size-xs);
+  font-family: var(--font-lato);
+}
+.john-doe-artist5 {
+  margin: 0;
+}
+.discover-the-captivating6 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.blank-line22 {
+  margin: 0;
+}
+.john-doe-software-engineer5 {
+  margin: 0;
+  white-space: pre-wrap;
+  font-size: var(--font-size-xs);
+}
+.an-endless-source5,
+.blank-line23 {
+  margin: 0;
+}
+.awwwards-platform5 {
+  margin: 0;
+  white-space: pre-wrap;
+  font-size: var(--font-size-xs);
+}
+.empowers-our-designs5 {
+  margin: 0;
+}
+.acknowledgments-john-doe-container5 {
+  position: relative;
+  z-index: 1;
+}
+.socialmediaicons {
+  width: 14.7px;
+  height: 15px;
+  position: absolute;
+  margin: 0 !important;
+  top: 22px;
+  right: 198px;
+  z-index: 2;
+}
+.socialmediaicons1 {
+  top: 59px;
+  left: 86.5px;
+}
+.socialmediaicons1,
+.socialmediaicons2,
+.socialmediaicons3 {
+  width: 14.7px;
+  height: 15px;
+  position: absolute;
+  margin: 0 !important;
+  z-index: 2;
+}
+.socialmediaicons2 {
+  right: 198px;
+  bottom: 52px;
+}
+.socialmediaicons3 {
+  bottom: 14px;
+  left: 107.1px;
+}
+.acknowledgments-text1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  min-width: 235px;
+  max-width: 100%;
+}
+.john-doe-gallery-all5 {
+  position: relative;
+  z-index: 1;
+}
+.footerframe2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-46xl) 0 0;
+  font-size: var(--font-size-mini);
+}
+.skill-iconslinkedin7 {
+  height: 35px;
+  width: 35px;
+  position: absolute;
+  margin: 0 !important;
+  right: 21px;
+  bottom: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.social5 {
+  position: relative;
+  z-index: 2;
+}
+.socialtext {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+}
+.logosfacebook-icon7,
+.skill-iconsinstagram7,
+.skill-iconstwitter7 {
+  height: 35px;
+  width: 35px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 35px;
+  z-index: 2;
+}
+.twittericon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.linkedinicon,
+.logosrow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.linkedinicon {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 var(--padding-87xl) 0 0;
+  gap: 21px 0;
+}
+.logosrow {
+  width: 311px;
+  flex-direction: row;
+  position: relative;
+  font-size: var(--font-size-11xl);
+}
+.logoswhatsapp-icon7 {
+  width: 35px;
+  height: 35px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.logo-frame-link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-38xl) var(--padding-2xl) 0 0;
+}
+.deviconbehance7 {
+  width: 35px;
+  height: 35px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.logo-frame-link1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-38xl) 0 0;
+}
+.aboutme4,
+.fullfooter5 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.fullfooter5 {
+  align-self: stretch;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #020a21,
+    #030c29 22.73%,
+    #0c1740 44.21%,
+    #15174d 63.76%,
+    #080324 78.1%,
+    #020119 91.12%,
+    #08092c
+  );
+  border: 1px solid var(--color-black);
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: var(--padding-4xs) var(--padding-42xl) var(--padding-lgi)
+    var(--padding-172xl);
+  gap: var(--gap-10xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
+.aboutme4 {
+  width: 100%;
+  position: relative;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #03011d,
+    #090b2e 12.13%,
+    #0b031d 24.39%,
+    #000918 46.26%,
+    #01071d 64.68%,
+    #09022f 83.01%,
+    #070222
+  );
+  overflow-y: auto;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-14xl) 0 0;
+  gap: 78px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1050px) {
+  .gallery-parent {
+    flex: 1;
+  }
+  .john-doe-frame,
+  .social-media-links {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .heager {
+    font-size: var(--font-size-21xl);
+  }
+  .job-title-placeholder-container {
+    min-width: 100%;
+  }
+  .social-media {
+    font-size: var(--font-size-13xl);
+  }
+  .view-my-gallery {
+    font-size: var(--font-size-9xl);
+  }
+  .social5 {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 725px) {
+  .header-text {
+    gap: 48px 0;
+  }
+  .pic-frame1 {
+    min-width: 100%;
+  }
+  .b-f-a-frame {
+    gap: 66px 0;
+  }
+  .gallery-parent {
+    gap: 101px 0;
+    min-width: 100%;
+  }
+  .john-doe-frame {
+    gap: 0 56px;
+  }
+  .bachelor-of-fine-container {
+    min-width: 100%;
+  }
+  .b-f-a-g-dlogo,
+  .social-media-logos {
+    gap: 0 52px;
+  }
+  .logo-and-social-media {
+    gap: 65px 0;
+  }
+  .social-media-icons {
+    flex-wrap: wrap;
+    gap: 0 66px;
+  }
+  .fullfooter5 {
+    padding-left: var(--padding-76xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .aboutme4 {
+    gap: 78px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .john-doe-senior-container1 {
+    font-size: var(--font-size-base);
+  }
+  .heager {
+    font-size: var(--font-size-11xl);
+  }
+  .heager-wrapper {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .in-the-alchemy-container1 {
+    font-size: var(--font-size-xl);
+  }
+  .b-f-a-frame {
+    gap: 66px 0;
+  }
+  .gallery-parent {
+    gap: 101px 0;
+  }
+  .bachelor-of-fine-container,
+  .job-title-placeholder-container {
+    font-size: var(--font-size-lg);
+  }
+  .logo-and-social-media {
+    gap: 65px 0;
+  }
+  .social-media {
+    font-size: var(--font-size-5xl);
+  }
+  .social-media-icons {
+    gap: 0 66px;
+  }
+  .view-my-gallery {
+    font-size: var(--font-size-2xl);
+  }
+  .gallery4 {
+    flex-wrap: wrap;
+    gap: var(--gap-17xl);
+  }
+  .social5 {
+    font-size: var(--font-size-lg);
+  }
+  .linkedinicon {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .fullfooter5 {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .aboutme4 {
+    gap: 78px 0;
+  }
+}
